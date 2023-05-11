@@ -1,10 +1,4 @@
-Write a program to compute the average waiting time and average turnaround time based on First Come First Serve for the following process with the given CPU burst times, (and the assumption that all jobs arrive at the same time.)
-	Process    Burst Time
-	P1 		10
-	P2		 15
-	P3		25
-  
-  sol:
+
   #include <stdio.h>
 
 int main() {
