@@ -13,5 +13,3 @@ int main() {
     printf("Maximum file size: %ld bytes\n", MAX_FILE_SIZE);
     return 0;
 }
-
-output:
